@@ -2,9 +2,13 @@
 
 *Transforming Pet Adoption, One Connection at a Time*
 
-![last-commit](https://img.shields.io/github/last-commit/avd1729/Adopt-Me?style=flat&logo=git&logoColor=white&color=0080ff)
-![repo-top-language](https://img.shields.io/github/languages/top/avd1729/Adopt-Me?style=flat&color=0080ff)
-![repo-language-count](https://img.shields.io/github/languages/count/avd1729/Adopt-Me?style=flat&color=0080ff)
+<div align="center">
+
+<img src="https://img.shields.io/github/last-commit/avd1729/Adopt-Me?style=flat&logo=git&logoColor=white&color=0080ff" />
+<img src="https://img.shields.io/github/languages/top/avd1729/Adopt-Me?style=flat&color=0080ff" />
+<img src="https://img.shields.io/github/languages/count/avd1729/Adopt-Me?style=flat&color=0080ff" />
+
+</div>
 
 ### Built with the tools and technologies:
 
